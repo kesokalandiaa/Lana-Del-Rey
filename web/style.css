@@ -1,0 +1,37 @@
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-position-x: center;
+    text-size-adjust: 100px;
+    color: #333;
+    text-align: center;
+    padding: 1px;
+}
+
+
+
+
+main {
+    padding: 20px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+
+.img-eye{
+    width: 200px;
+    
+
+
+}
